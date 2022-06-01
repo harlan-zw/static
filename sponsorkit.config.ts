@@ -38,6 +38,11 @@ export default defineConfig({
       preset: presets.medium
     },
     {
+      title: "Gold Sponsors",
+      monthlyDollars: 25,
+      preset: presets.large
+    },
+    {
       title: 'Special Sponsor',
       monthlyDollars: Infinity,
       composeAfter(compose,_,config) {
