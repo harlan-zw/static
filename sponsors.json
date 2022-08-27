@@ -17,22 +17,6 @@
   },
   {
     "sponsor": {
-      "login": "brendanmullan",
-      "name": "Brendan Mullan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4569153?v=4",
-      "type": "User",
-      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAPFBMVEVMaXH////////ygKP/////+v//////////////////msPw8fDedpbv7+/y+PbrzNbdb5Hu6OrgfZvdc5Ra07LLAAAAC3RSTlMAr5rqxnIY6jNQxmoEHNYAAAAJcEhZcwAACxMAAAsTAQCanBgAAANFSURBVGje5ZvZloMgDECFBgMFWpf//9c5tnWqI8oaeJg89gi3hLBl6bpokUpwAETUGhEBuFCyIxYpGGqnIBNU9P4UuoH3xbGK6SABVVTDHHWgWI28lM4l05FSZNgKdIJkoyVYnSQWchTec53IXSabJ5u4wtGmkq22I4q04d6nyTwfyeBxmqZ7wqDVbZ7NkAUe5vkWbWTCLJIHnpcuRKSaTSmwiVG3vJlyYHOT0dwy4GCymkxZsJmCTEwZUxpsjIrjlgP7yXKiAU8y1K4Kgz0W1u+5JcHmdrWe74YObO6+fZIKfL57KkMLPjPtvxNcHnwyzfeZGuyeZjHRgwfHNPdYA/w8KpuPVcD8sGXpOuDH3w0MaoHhzxK2tcB2v5ihHng3ZKXrgbXczXBFMNuadE3wZsi8Lvi7lrEuGL+mVRes1xXFaoM/5tXr2mD9PipEfbD41XRlMFttujYYP7tHdfBrDxEtwGKd4tpgtk7x60NTGHzR3zLJvx+a4Sg54Mv+VttaHGJPh4wZDrbL/uRro35/+XBIjkvxsj/1MerlHzolY8SX/YnlLG4hvIM2YGgHxjZgbAd+tALrRtLp9D0iD9xM1f/Mqi3+t53LQrtDwnMshhyVKW3F5iIQrifvD/62anP1GQPFNeLotnJz2ZvC5BhvTGm7u94Oc4A4rrwJbdFzoXeJGxzZlnmeMGRg4Xm0kYGl55lKBUbfw5wKzHyuCCqw8DlfqMC9z91EBGZeBxsRWHldijRg9DtRacDc7zamAUu/o5wEzHbBn4pgGRAMoQBDSPiHAqyOAS9TAwzHEJ/LL5UDHpx+rkOOAnf6pYLcjGfuQ5efizvCuA63lM0COzpER8xcOG7fYx742KMzSwCOl+9c8PHF5ExOQGownuSgKEsLtqeZRpwWzM9TX4ASDFdJRkgHxsukwR25KBh9CV1IA0ZvwqCiAYck7VGAw9IUsTQYAzNw13kuBcbwVFQsCcaI3PIeyoEhLsdaFAJb3kWKwuB448V3mFA90ENovPH8O0jL31cYFm88iyMmJu+/yhXC4o3uOCLPqciRkOpEhdyKGNmmJKVrV4TTxZUd6YJlR28Lb1Jo9TbxNqVlH523KKb70ouUD/4Ar1wTLtBDxAUAAAAASUVORK5CYII=",
-      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAATlBMVEVMaXH////////////////////////////////////+jrT/zv7rdpredpbw8PDv7u/x+PbdcZLpxtHca4/msMDs197x8/Lu5ejfgJ3nscKSijVTAAAADXRSTlMAIO+3lG3QDErg1JTwyyQgyQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAmlJREFUWMO12dt6gyAMAGDknLbgoau693/RfWpVVFDALLeTfyAIISXkPJQWnEmgbUtBMi60IvmhNJf2EJJnoppTGwjKdXLnBNjTAKEwuURSQ2kjooS4gRes6WyEWNqyYUVE9171+9PGgG3Xv19XnVRPY0wdDRpjnqdvUj1MElgbYx4nYjF6iaB5FBdeKhgUZy8ZDIhq9tJB73tcvQzQJz7NHdA8D+vZ3APNboUXr7vgazsxrL4LvtlmwM198McZtAIMENaZFhUGWIm1gzjg0kVR4oDl3EXAAuE7xRYLtNNEczyQj1NC8UCqxhHjgeOYOSY4jFligpIQZSewd8SUY/Qb/QRaNbzCAXy7EQsat9EEaiLGv31+3OjauFTk123UjI3EMCeDWLlh45Ilu2k0dYITNv2zbUQmS55GjEiLGpIALgiE4oKUtLhgiw+iDxl9UtCXjXdhB1Z5xHPM++l5Pql5Q7h6jn83h64JhrP1RDwnlu2rDsR3W5rA6+f0ssEaf/Q78Oo55TsCNhEJrkeA55C6AXLvMXoD1N6DPh8cD/pjKpIPcn+ylA9qfzqXDUIg4cwGRSAlzgXXrF3ggMK9Vmy+0VjQbbK5VhDdfdzo48C6cRt1m9sea9eoymOa5gc/ldOMbS+P1Nl5u2iwXVvR3a1enyeSQXBpdijg8HsgP5YI5B2Q+YoYMh+U3mJQAbkghAo3kAdCuLQkc0B5UvMb3mMqyM4LnTxw/1jA/X2GXxYkqff+sRz02/sMjaiaFsx3//gugN19JqZkOhZ145IliK5mKwHX6RxyJRtEcum+QC3d/8ePCzOa+PPHHw+eIKsA3GxJAAAAAElFTkSuQmCC",
-      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAaVBMVEVMaXH19fX/////////////////////////////////////////nsn/vfX////////////x19//r+H49fbldZnw8PDedpbdcpPv7u7ijqjcbY/ed5fx+Pbggp/x8vHed5blpLjv6Orns8NC996UAAAAFXRSTlMA++58WwqTHLvZoTC/mauopfCp6/FYVXNhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAByElEQVRIx52W25aDIAxFERHRTjtPCErx9v8fOQsEBEXEOU+tYS+MHJIAcFKNMGlgUcCGYFSDW9VlQwM1ZZp6tSM96/O63qGlPEJQTj8XO6F+HXmE4fy79igCVG82zN8rZGDv6kT8TIIlEDH9VEei60RqF9F1IaOIWyRk3lMO0r29b8XyEOa+Wz3nIr09n7bPRWRrXELzkWXzzoc/QH51JuMTZFTZlPQJQksAQPMMaQCouUJEDiIUwmuAFDIwxliXQjq1YlAIAlghQiqJ+fK+bAtkv1COAeGUO9E4EqwgKnv/ytL4TfZ+NgA+3QWCgj5U8R8keDFvf51BLADD9MOEo4nRBpCnCNFHOfcH2Rc7BfRR7oZxGoRFjgG5jBxZW067BJMOOQa0LXfzO/nIIaDNv1+xPKT0L3IWUtS2XAita8TETbkALyqHTewKYWaBLUqgXedNPYsjTJoFa2sLLPxuclUhRFRR2ARdA0Sb5VLIold47Q9r+6QQbTfs9ySSg5CwjZF7hBybJaFehfM85hBybslY9+rNsKGTdU3E0VEBrtJUOIeYBytE8fGiwouRRez/tk6MPUV4kdUUNCbGHjNchRXmbrjKGuH+ADNJsWttUCGtAAAAAElFTkSuQmCC"
-    },
-    "isOneTime": true,
-    "monthlyDollars": 7,
-    "privacyLevel": "PUBLIC",
-    "tierName": "$7 one time",
-    "createdAt": "2022-07-07T10:06:57Z"
-  },
-  {
-    "sponsor": {
       "login": "ducrot",
       "name": "Christian Ducrot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3525119?u=6b662d7c909bb2c725194f0f9290d2b8e78b7188&v=4",
