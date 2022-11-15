@@ -28,6 +28,12 @@ export default defineConfig({
   width: 800,
   formats: ['json', 'svg', 'png'],
   tiers: [
+    // Past sponsors, currently only supports GitHub
+    {
+      title: 'Past Sponsors',
+      monthlyDollars: -1,
+      preset: presets.xs,
+    },
     {
       title: "Backers",
       preset: presets.base
