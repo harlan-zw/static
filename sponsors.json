@@ -35,6 +35,23 @@
   },
   {
     "sponsor": {
+      "login": "productdevbook",
+      "name": "Mehmet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38668796?u=e4d685e407051618e15419c4e01bb64d602d0b9d&v=4",
+      "type": "User",
+      "avatarUrlHighRes": "data:image/PNG;base64,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",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAVFBMVEVMaXG6Qz26Qz26Qzy6Qz26Qz26Qz26Qz26Qz26Qzy6Qzy6Qz3///+5QTu1NS68R0G3OzTDW1bUi4fJa2bepaP78/Pkt7Tampbqx8Xy2tn36OfOeXV04xFXAAAAC3RSTlMAbR8TlE672ewHQlG5+80AAAAJcEhZcwAACxMAAAsTAQCanBgAAAOmSURBVHjazVnrsoMoDO7Fim0SCAKK+v7vuQN6bK1ob+zOfj+cdg7nM/eE9HDYx/l2LEohKoBKiLI43s6H73G9FAJWEMXl+hXdrahgA1Vx+Vi4o4BdiOP1I7oKXqJ6n/Ii4C1U7yl+KuFtlKc3xKvgA7wU8lrAhyh2LXku4WOUO6F+EvAFxCkv3zbjt3wAVZLx/DUfgEjY8VrCDyjXvi7gJxSreIYf8RThp+pXwifHlPAzyqwKPyl9FTkIxd3TR8iC4yxglYewuuYV8C6iyEUopn4J2XB7kXQESikF05OA3krAbZcQkAzg+Ix8LBki945bLmkuIALWdcAQH5FvqDVJHhlpI7iLtK5BPt3jHQ0rrhGxs4amA2mdRVpXBpA1+ta2HTZta51TRB368I6aFcukScXhcE7wKVbWsJI1tpJlg4Nkck6zxk6boUHPpK2WKSHP66AhUFJ32EVCy4oDoQyEssZGG23RMnvsTYrxtkoTApCDQzeMhFLJBn3TNOi0bLCztelwYDI9ulquPXN89glF06EzMn4YCSN6paKPeuwVQVACLa8MWTyVVgJii9hpDv/0R9jUbescGOwG2yF6jmb2iA2Ec8syK57dEc6peG4mrLU2zlGLVrK02EZVieKbpSJauFks5FtoMhO22hjnoMGBFXvUHNOQgm16szSkONwTL6SGcYizrZ8IdR9CUWM3/nXyHtb8yFgdHjXmYfHKJWE/oI+eb+QcXxwUCox3LAiDDtEfSUKLdfw2yKXFW/lAoR5VBuAxYlRK5b5DwwB9MOGcAD1iS0uVxSqmZyOOhDwRhkgENtgRpQ5veFk9ujnmMsmZ0EqK74jFDYhHJy/zTzwH9mgWr6bAbsxg/B9hVxv2owlDGDYLg8+BvUq9KVXG1BsxEYZi6JyO8m0kChTJ4tAGXSiESO+97yfCvvVj3oVTG6kMx1T5Aml69FJN5epP5fC5wVaqYGqbLjZwSxTY6JpmLLAjYczlQKt9DB0A1o3ZKLD7LaCz1nborbUOnbe1C6UrJqlkIEq2+u0mxdo9NKkuVsMp7/aa1CXdRcc22gbU8aHUYL3XNLfQrTa61+jHFj+CiCXz/vgwzl+vRhE1jSIQZob9caR4NSzR4kmv+KZhKfs4l3/gzD4SZx/a818rsl988l/N8l8es19v81/A868Isi8x8q9Z8i+CvtVanP67ZVr+dV/+heS/sDL9YKkr3t5m514751+Mv17d3/4PPy5Mof7pzx//AG/u7q8RNWEMAAAAAElFTkSuQmCC",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAXVBMVEVMaXG6Qz26Qz26Qz26Qzy6Qz26Qzy6Qz26Qz26Qz26Qz26Qz26Qz25Qju7RkC4PTa2NzH////EYFv89vbKbWnPfHj36OfBVVDx2tngqqjVjIjtzcuyLifmvLramZYGM2/CAAAADHRSTlMApdgwle5bHLwJfNy+cIYDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACLklEQVR42q2Wia6qMBCGUUFQp7N0B4T3f8ybyiKKepTcPyFB4HM6WztZtlJ5zKtLAVBcqvxYZn+qPO/hQfvzZ+qwgxeqDu8tvASSdm8sHQt4q+L4Ajjl8FH5aUVU8Ieq06/EM/MN8cTk8JXyRazgS81xK4tvkWLKzw6+1m6sEvhBh1+NjGbKp4dqvlHLX5OSN+dnQlESE4Aihc/QOcuy/fJzBCDUNwUC0JjIB2z/sC4FyKQwijHGiA/ci+8sET+sr1ykUQGw1azFYhdBG0e+7r1XwbJaMMd7rShU3Etz1SZc6xissVoarCM7qUmhuldNNRNEndSKtNHXWoyIbsR4U7PqpQWamSq7TASHKA3DgETbGNt2oRbLyC45NjGXrBhTwNqk1zgiwRrn3dV6JMDh3ZAoKDIcWHISA6UYD4h2vvbh2rWMSiFhK46GL3FC2EmLacF3JLZEvmdMbqpOGsYRmRdmxWvGhIQBuUXPMgBy8OKm7BQL93V6nnyx0EVtjTTc+CFbxqR/U6P71VSDtwU3RFqMkVY7I+JNl+w6iZhcmoK8SCVRLe6qTe/aFLHW9skBttIpWqZyWTCKXSoYp7tonUTrjCak4JbJh+NjWcJYliJGfDTSpsCuynJd/MFara0NpJvUAGpV/OsWI2ZKF6Q2W3Xl+VMjP/XWopE3bBdbNqVfzOTbN9gN2/iWw2LLkbTh4NtyvG45xLeMCh8N7cr/N/ZsGq7mEW5fIBb71yPcPxIfaO/He1DUAAAAAElFTkSuQmCC"
+    },
+    "isOneTime": false,
+    "monthlyDollars": 5,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$5 a month",
+    "createdAt": "2023-12-01T16:32:21Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "danielroe",
       "name": "Daniel Roe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
@@ -385,7 +402,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 01 Dec 2023 00:17:57 GMT",
+    "createdAt": "Sat, 02 Dec 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -400,7 +417,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 01 Nov 2023 00:17:57 GMT",
+    "createdAt": "Thu, 02 Nov 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -415,7 +432,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 02 Oct 2023 00:17:57 GMT",
+    "createdAt": "Tue, 03 Oct 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -430,7 +447,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 02 Sep 2023 00:17:57 GMT",
+    "createdAt": "Sun, 03 Sep 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -445,7 +462,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Thu, 03 Aug 2023 00:17:57 GMT",
+    "createdAt": "Fri, 04 Aug 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -458,7 +475,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PRIVATE",
-    "createdAt": "Tue, 04 Jul 2023 00:17:57 GMT",
+    "createdAt": "Wed, 05 Jul 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -473,7 +490,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 04 Jun 2023 00:17:57 GMT",
+    "createdAt": "Mon, 05 Jun 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -488,7 +505,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 05 May 2023 00:17:57 GMT",
+    "createdAt": "Sat, 06 May 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -503,7 +520,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Wed, 05 Apr 2023 00:17:57 GMT",
+    "createdAt": "Thu, 06 Apr 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -518,7 +535,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 06 Mar 2023 00:17:57 GMT",
+    "createdAt": "Tue, 07 Mar 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -533,7 +550,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 04 Feb 2023 00:17:57 GMT",
+    "createdAt": "Sun, 05 Feb 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -548,7 +565,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Thu, 05 Jan 2023 00:17:57 GMT",
+    "createdAt": "Fri, 06 Jan 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -563,7 +580,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Tue, 06 Dec 2022 00:17:57 GMT",
+    "createdAt": "Wed, 07 Dec 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -578,7 +595,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sun, 06 Nov 2022 00:17:57 GMT",
+    "createdAt": "Mon, 07 Nov 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -593,7 +610,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 07 Oct 2022 00:17:57 GMT",
+    "createdAt": "Sat, 08 Oct 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -606,7 +623,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PRIVATE",
-    "createdAt": "Wed, 07 Sep 2022 00:17:57 GMT",
+    "createdAt": "Thu, 08 Sep 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -621,7 +638,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 08 Aug 2022 00:17:57 GMT",
+    "createdAt": "Tue, 09 Aug 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -636,7 +653,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 09 Jul 2022 00:17:57 GMT",
+    "createdAt": "Sun, 10 Jul 2022 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -651,7 +668,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Fri, 01 Dec 2023 00:17:58 GMT",
+    "createdAt": "Sat, 02 Dec 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -664,7 +681,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PRIVATE",
-    "createdAt": "Wed, 01 Nov 2023 00:17:58 GMT",
+    "createdAt": "Thu, 02 Nov 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -679,7 +696,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Mon, 02 Oct 2023 00:17:58 GMT",
+    "createdAt": "Tue, 03 Oct 2023 00:15:31 GMT",
     "provider": "github"
   },
   {
@@ -694,7 +711,7 @@
     },
     "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
-    "createdAt": "Sat, 02 Sep 2023 00:17:58 GMT",
+    "createdAt": "Sun, 03 Sep 2023 00:15:31 GMT",
     "provider": "github"
   }
 ]
