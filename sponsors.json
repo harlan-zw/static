@@ -154978,11 +154978,11 @@
   },
   {
     "sponsor": {
-      "login": "AdKit-so",
+      "login": "adkit-so",
       "name": "AdKit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/242531394?v=4",
       "websiteUrl": "https://adkit.so",
-      "linkUrl": "https://github.com/AdKit-so",
+      "linkUrl": "https://github.com/adkit-so",
       "type": "Organization",
       "avatarBuffer": {
         "type": "Buffer",
