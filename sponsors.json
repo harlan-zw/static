@@ -164803,7 +164803,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 120,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$120 one time",
     "createdAt": "2026-02-11T08:04:41Z",
