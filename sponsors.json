@@ -145877,7 +145877,7 @@
   {
     "sponsor": {
       "login": "smtplabs",
-      "name": "SMTP Labs",
+      "name": "Email Testing for Developers - SMTP Labs, Inc.",
       "avatarUrl": "https://avatars.githubusercontent.com/u/89388475?v=4",
       "websiteUrl": "https://smtp.dev",
       "linkUrl": "https://github.com/smtplabs",
@@ -168446,7 +168446,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 100,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$100 one time",
     "createdAt": "2026-03-10T06:16:48Z",
