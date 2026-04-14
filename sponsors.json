@@ -15556,6 +15556,7 @@
       "login": "MichaelGitArt",
       "name": "Michael",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34610289?u=d86c04f2e19f6df031eac4669accb106a60b292b&v=4",
+      "websiteUrl": "https://gitart.org",
       "linkUrl": "https://github.com/MichaelGitArt",
       "type": "User",
       "avatarBuffer": {
@@ -153470,11 +153471,11 @@
   },
   {
     "sponsor": {
-      "login": "adkit-so",
+      "login": "adkit",
       "name": "AdKit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/242531394?v=4",
       "websiteUrl": "https://adkit.so",
-      "linkUrl": "https://github.com/adkit-so",
+      "linkUrl": "https://github.com/adkit",
       "type": "Organization",
       "avatarBuffer": {
         "type": "Buffer",
