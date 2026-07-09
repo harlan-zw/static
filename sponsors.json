@@ -125578,7 +125578,6 @@
       "login": "jasonvanguard",
       "name": "Jason Poulin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55339225?u=f97b60c098d906196b497c389286eb674d8f1e46&v=4",
-      "websiteUrl": "https://vanguard.to",
       "linkUrl": "https://github.com/jasonvanguard",
       "type": "User",
       "avatarBuffer": {
@@ -161239,9 +161238,9 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": -1,
+    "monthlyDollars": 10,
     "privacyLevel": "PUBLIC",
-    "tierName": "$250 a month",
+    "tierName": "$10 a month",
     "createdAt": "2026-02-09T12:29:53Z",
     "provider": "github"
   },
