@@ -198022,7 +198022,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 1000,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$1,000 one time",
     "createdAt": "2026-09-09T19:24:12Z",
