@@ -89563,7 +89563,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": -1,
+    "monthlyDollars": 5,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2023-11-04T06:40:54Z",
